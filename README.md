@@ -31,8 +31,8 @@ This repository showcases the work of Premium Essays Writing Services, specializ
 ## Visuals and Links
 ### Attachments
 #### Examples of Deliverables
-- [Sample Business Essay](documents/sample_business_essay.pdf)
-- [Technical Report Example](documents/sample_technical_report.pdf)
+- [Sample student Essay]([documents/Download_here_](https://docs.google.com/file/d/11VFMp8FA8-wZ-Q9pRAveQShKb-g-wYzU/edit?usp=docslist_api&filetype=msword))
+- [Technical Report Example]([documents/Download_here_](https://docs.google.com/file/d/1fYk46RKOY5_21pUiSDDPzHI4cgcTwTdA/edit?usp=docslist_api&filetype=msword))
 
 #### Client Feedback
 - ![Client Testimonials](images/client_testimonials.png)
