@@ -35,7 +35,20 @@ This repository showcases the work of Premium Essays Writing Services, specializ
 - [Technical Report Example]([documents/Download_here_](https://docs.google.com/file/d/1fYk46RKOY5_21pUiSDDPzHI4cgcTwTdA/edit?usp=docslist_api&filetype=msword))
 
 #### Client Feedback
-- ![Client Testimonials](images/client_testimonials.png)
+- ![Client Testimonials](c8da5216-d925-4c27-9c63-f581de014459.jpeg)
+
+- ![image](https://github.com/user-attachments/assets/bacc08f5-2476-4c19-b6b0-55a285396d8c)
+
+- ![image](https://github.com/user-attachments/assets/82727db4-8ec4-45bc-bbad-4f0245989429)
+
+- ![image](https://github.com/user-attachments/assets/780a150c-785e-4b69-9e4c-7755c131124e)
+
+- ![image](https://github.com/user-attachments/assets/63497040-77ac-4707-80d0-18a16d396eaa)
+
+- 
+
+
+
 
 ## Contribution
 This repository represents the dedication and expertise of Premium Essays Writing Services in crafting content that meets the highest academic and professional standards. For inquiries or collaborations, please contact us through our official channels.
